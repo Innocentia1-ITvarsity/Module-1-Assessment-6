@@ -1,0 +1,56 @@
+h1{
+    color: fuchsia
+}
+h2{
+    color: fuchsia
+}
+h3{
+    color: fuchsia
+}
+h1{
+    font-family: sans-serif
+}
+p{
+    font-family: fantasy;
+    color: antiquewhite;
+    
+}
+h2{
+    font-family: sans-serif
+}
+h3{
+    font-family: sans-serif
+}
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 5px;
+}
+a:hover{
+    background-color: blueviolet;
+    color: black
+}
+th{
+    font-weight: 800;
+    color: antiquewhite
+}
+table{
+    border-collapse: collapse
+}
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta
+}
+body{
+    background-image: url(Images/makeup-product.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+td{
+    color: antiquewhite
+}
